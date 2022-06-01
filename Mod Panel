@@ -4,6 +4,7 @@
 // @author       The_Condalorian
 // @description  Feat. RAINBOW CROSSHAIR, FOG MOD, SKIN MOD, SKY COLOR MOD
 // @match        *://shellshock.io/*
+// @namespace    https://github.com/Rutledgecx
 // @run-at       document-start
 // @grant        none
 // ==/UserScript==
